@@ -83,8 +83,7 @@
         display: none;
     }
     .bars {
-        display: flex;
-        justify-content: center;
+        display: block;
     }
     .search {
         display: none;

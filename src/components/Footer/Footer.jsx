@@ -65,13 +65,13 @@ const Footer = () => {
                 </div>
 
                 <div className="block">
-                    <dic className="detail">
+                    <div className="detail">
                         <span>Resources</span>
                         <span className="pngLine">
                             <LinkIcon className='icon' />
                                 <p>Safety Privacy & Terms</p>
                         </span>
-                    </dic>
+                    </div>
                 </div>
             </div>
 
