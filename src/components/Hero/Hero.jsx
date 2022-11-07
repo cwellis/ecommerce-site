@@ -16,7 +16,7 @@ const Hero = () => {
             {/* left side */}
 
             <div className="h-sides">
-                <span className='text1'>Skin Cream</span>
+                <span className='text1'>Facial Skin Care Products</span>
 
                 <div className="text2">
                     <span>Trendy Collection</span>

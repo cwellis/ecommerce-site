@@ -3,6 +3,7 @@ import './Header.css'
 import Logo from '../../assets/logo.png'
 import {CgShoppingBag} from 'react-icons/cg'
 import {GoThreeBars} from 'react-icons/go'
+import {Link} from 'react-scroll'
 
 const Header = () => {
 

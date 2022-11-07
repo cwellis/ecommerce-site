@@ -26,13 +26,13 @@ const Footer = () => {
                         <span>Contact Us</span>
                         <span className="pngLine">
                             <LocationMarkerIcon className='icon' />
-                            <span>111 North Ave Orlando, FL 12345</span>
+                            <span>1234 Street Name, NY 12345</span>
                         </span>
 
                         <span className="pngLine">
                             {" "}
                             <PhoneIcon className='icon' />
-                            <a href="">352-306-4415</a>
+                            <a href="">123-456-7890</a>
                         </span>
 
                         <span className='pngLine'>
